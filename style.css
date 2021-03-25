@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(180, 180, 173);
+}
+a{
+    text-decoration: none;
+    color: rgb(194, 8, 8);
+}
+#para{
+    float: left;
+    width: 80%;
+}
+#oben{
+    padding-left : 10%;
+}
+li{
+    font-size: 25px;
+    font-style: italic;
+    
+}
+
+#sideBar{
+    background-color: rgb(224, 62, 62);
+    border: solid 5px black;
+    float: left;
+    margin: 1%;
+}
